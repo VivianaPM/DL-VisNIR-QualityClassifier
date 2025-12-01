@@ -1,0 +1,7 @@
+Category;Min_DryM;Max_DryM
+Excelente;0.335;0.97
+Muy buena;0.18;0.335
+Buena;0.125;0.18
+Razonable;0.089;0.125
+Mala calidad;0.080;0.089
+Muy mala;0;0.080
